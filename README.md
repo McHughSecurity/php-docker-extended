@@ -1,9 +1,9 @@
 # PHP Docker Extended
 
-A Docker container built with PHP 8.2 configured with FPM and a wide range of libraries and extensions to support various development needs, including GD, LDAP, Memcached, MongoDB, and others. This setup also includes Composer for dependency management and health check scripts for monitoring.
+A Docker container built with PHP 8.3 configured with FPM and a wide range of libraries and extensions to support various development needs, including GD, LDAP, Memcached, MongoDB, and others. This setup also includes Composer for dependency management and health check scripts for monitoring.
 
 ## Features
-- **PHP 8.2** with FPM
+- **PHP 8.3** with FPM
 - Extensions support:
   - GD for image processing
   - LDAP for directory access
